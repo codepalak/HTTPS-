@@ -1,0 +1,23 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Node.js",
+      "status": false
+    },
+    {
+      "id": 2,
+      "title": "Learn Express",
+      "status": false
+    },
+    {
+      "id": 3,
+      "title": "Build a REST API",
+      "status": false
+    },
+    {
+      "id": 4,
+      "status": false
+    }
+  ]
+}
